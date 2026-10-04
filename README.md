@@ -1,1 +1,1 @@
-# duo-git-larissa-lana eu amo jogos 
+# Repositório da Larissa e Lana
